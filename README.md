@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Tathya!</h1>
 <p align="left">
-  <em>Building intelligent robots with AI, Perception & Autonomous Systems</em>
+  <em>Deep Learning & Robotics Enthusiast</em>
 </p>
 
 - 🎓 **Robotics & AI Engineer** | **M.Eng Robotics @ UMD**  

@@ -33,9 +33,4 @@
 ## Most Used Languages  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tathya7&layout=compact&theme=dark&hide=Jupyter%20Notebook" />
 
-
-
 ---
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
